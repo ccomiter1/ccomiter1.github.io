@@ -34,7 +34,7 @@ title: Home
     <div class="paper">
       <p class="title"><b>{{ paper.title }}</b>
         {% if paper.paper_pdf %}
-          <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">PDF</a>
+          <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">Paper</a>
         {% endif %}
         {% if paper.slides %}
           <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
@@ -49,7 +49,7 @@ title: Home
           <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
         {% endif %}
       </p>
-      <p>{{ paper.authors }}</p>
+      <p>{{ paper.authors | replace: "Charles Comiter", "<b>Charles Comiter</b>" }}</p>
       <p><i>{{ paper.venue }}</i></p>
     </div>
   {% endfor %}
