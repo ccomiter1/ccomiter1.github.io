@@ -5,7 +5,7 @@ papers:
     paper_pdf: https://www.biorxiv.org/content/10.1101/2023.03.21.533680v2
     selected: y
 
-   - title: "Prediction of single-cell RNA expression profiles in live cells by Raman microscopy with Raman2RNA"
+  - title: "Prediction of single-cell RNA expression profiles in live cells by Raman microscopy with Raman2RNA"
     authors: "Koseki J Kobayashi-Kirschvink, Charles Comiter, Shreya Gaddam, Taylor Joren, Emanuelle I Grody, Johain R Ounadjela, Ke Zhang, Baoliang Ge, Jeon Woong Kang, Ramnik J Xavier, Peter TC So, Tommaso Biancalani, Jian Shu, Aviv Regev"
     venue: "Nature Biotechnology"
     paper_pdf: https://www.nature.com/articles/s41587-023-02082-2
@@ -17,7 +17,7 @@ papers:
     paper_pdf: https://www.nature.com/articles/s41598-023-36638-8
     selected: y
 
- - title: "SpaceTx: a roadmap for benchmarking spatial transcriptomics exploration of the brain"
+  - title: "SpaceTx: a roadmap for benchmarking spatial transcriptomics exploration of the brain"
     authors: "Brian Long, Jeremy Miller, The SpaceTx Consortium (including Charles Comiter)"
     venue: "arXiv"
     paper_pdf: https://arxiv.org/abs/2301.08436
