@@ -3,12 +3,14 @@ papers:
     authors: "Charles Comiter, Xingjian Chen, Eeshit Dhaval Vaishnav, Koseki J. Kobayashi-Kirschvink, Metamia Ciampricotti, Ke Zhang, Jason Murray, Francesco Monticolo, Jianhuan Qi, Ryota Tanaka, Sonia E. Brodowska, Bo Li, Yiming Yang, Scott J. Rodig, Angeliki Karatza, Alvaro Quintanal Villalonga, Madison Turner, Kathleen L. Pfaff, Judit Jané-Valbuena, Michal Slyper, Julia Waldman, Sebastian Vigneau, Jingyi Wu, Timothy R. Blosser, Åsa Segerstolpe, Daniel L. Abravanel, Nikhil Wagle, Shadmehr Demehri, Xiaowei Zhuang, Charles M. Rudin, Johanna Klughammer, Orit Rozenblatt-Rosen, Collin M. Stultz, Jian Shu, Aviv Regev"
     venue: "In Revision/Submission to Nature. 2025."
     paper_pdf: https://www.biorxiv.org/content/10.1101/2023.03.21.533680v2
+    press: https://www.nature.com/articles/d41586-024-03762-y
     selected: y
 
   - title: "Prediction of single-cell RNA expression profiles in live cells by Raman microscopy with Raman2RNA"
     authors: "Koseki J Kobayashi-Kirschvink, Charles Comiter, Shreya Gaddam, Taylor Joren, Emanuelle I Grody, Johain R Ounadjela, Ke Zhang, Baoliang Ge, Jeon Woong Kang, Ramnik J Xavier, Peter TC So, Tommaso Biancalani, Jian Shu, Aviv Regev"
     venue: "Nature Biotechnology. 2024."
     paper_pdf: https://www.nature.com/articles/s41587-023-02082-2
+    press: https://news.mit.edu/2024/noninvasive-technique-reveals-cells-gene-expression-changes-0110
     selected: y
 
   - title: "Reference-based cell type matching of in situ image-based spatial transcriptomics data on primary visual cortex of mouse brain"

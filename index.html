@@ -39,6 +39,9 @@ title: Home
         {% if paper.slides %}
           <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
         {% endif %}
+        {% if paper.press %}
+          <a class="button" href="{{ paper.press | prepend: site.baseurl }}" target="_blank">Press</a>
+        {% endif %}
         {% if paper.poster %}
           <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
         {% endif %}
